@@ -1,0 +1,18 @@
+{
+	"id": "nodebb-plugin-topic-excerpt",
+	"url": "https://github.com/the7-pw/nodebb-plugin-topic-excerpt",
+	"library": "./library.js",
+	"hooks": [
+		{
+			"hook": "filter:topic.create", "method": "topicCreate"
+		},
+		{
+			"hook": "filter:topic.edit", "method": "topicEdit"
+		}
+	],
+	"staticDirs": {},
+	"less": [],
+	"scripts": [],
+	"acpScripts": [],
+	"templates": ""
+}
