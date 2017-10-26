@@ -1,0 +1,25 @@
+{
+  "name": "nodebb-plugin-topic-excerpt",
+  "version": "0.1.0",
+  "description": "auto generate excerpt from topic content when you edit topic or create a new topic.",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the7-pw/nodebb-plugin-topic-excerpt.git"
+  },
+  "keywords": [
+    "nodebb"
+  ],
+  "author": "the7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/the7-pw/nodebb-plugin-topic-excerpt/issues"
+  },
+  "homepage": "https://github.com/the7-pw/nodebb-plugin-topic-excerpt#readme",
+  "nbbpm": {
+    "compatibility": "^1.6.0"
+  }
+}
