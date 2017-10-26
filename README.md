@@ -1,9 +1,9 @@
 # nodebb-plugin-topic-excerpt
 when you create a new topic,or edit topic,the plugin will auto generate excerpt from topic content.
 
-dependcy : remove-markdown-and-html
+dependcy package : `remove-markdown-and-html`
 
-Usage
+**Usage**
 ```
 npm install nodebb-plugin-topic-excerpt
 ```
